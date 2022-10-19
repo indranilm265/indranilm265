@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @indranilm265
+- 👋 Hi, I’m Indranil Mandal
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently learning modern cryptography
 - 💞️ I’m looking to collaborate on cybersecuroty projects
